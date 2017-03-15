@@ -1,0 +1,11 @@
+ digraph G {
+"[671  7]" -> "[500  2]"[tailport=sw];
+"[671  7]" -> "[1000  1]"[tailport=se];
+"[500  2]" -> "[0  0]"[tailport=sw];
+"[500  2]" -> "[656  6]"[tailport=se];
+"[1000  1]" -> "[687  5]"[tailport=sw];
+"[656  6]" -> "[665  10]"[tailport=se];
+"[687  5]" -> "[750  3]"[tailport=se];
+"[665  10]" -> "[663  8]"[tailport=sw];
+"[663  8]" -> "[665  14]"[tailport=se];
+}

@@ -1,0 +1,136 @@
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:1
+Created t1.dot file for this case
+Demonstrating Case:2
+Created t2.dot file for this case
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:3
+            n = No. of Nodes in the tree    Height of BST T3       lgnsqroot(n)
+================================================================================
+                                       0                  -1      -inf       0
+                                      20                   6   2.99573 4.47214
+                                      40                   8   3.68888 6.32456
+                                      60                   9   4.09434 7.74597
+                                      80                  10   4.38203 8.94427
+                                     100                  10   4.60517      10
+                                     120                  12   4.78749 10.9545
+                                     140                  12   4.94164 11.8322
+                                     160                  12   5.07517 12.6491
+                                     180                  13   5.19296 13.4164
+                                     200                  13   5.29832 14.1421
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:4
+            n = No. of Nodes in the tree    Height of BST T4       lgn   sqroot(n)
+================================================================================
+                                       0                  -1      -inf           0
+                                      20                   6   2.99573     4.47214
+                                      40                   8   3.68888     6.32456
+                                      60                   9   4.09434     7.74597
+                                      80                  10   4.38203     8.94427
+                                     100                  11   4.60517          10
+                                     120                  12   4.78749     10.9545
+                                     140                  13   4.94164     11.8322
+                                     160                  13   5.07517     12.6491
+                                     180                  15   5.19296     13.4164
+                                     200                  15   5.29832     14.1421
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:5
+Created t5-a.dot file for this case
+Deleting the root node of List5
+Created t5-b.dot file for this case
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:6
+Created t6-a.dot file for this case
+Deleting the root node of List6
+Created t6-b.dot file for this case
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:7
+Stage             data item at root     the root (after deletion)      search for data with key
+====================================================================================================
+    0                             [1000  1]                      [500  2]                  [1000  11]; 
+    1                             [500  2]                      [625  4]                   [500  12]; 
+    2                             [625  4]                     [625  14]                   [625  14]; 
+    3                             [625  14]                      [656  6]                           nil
+    4                             [656  6]                     [656  16]                   [656  16]; 
+    5                             [656  16]                      [663  8]                           nil
+    6                             [663  8]                     [663  18]                   [663  18]; 
+    7                             [663  18]                     [665  10]                           nil
+    8                             [665  10]                     [665  20]                   [665  20]; 
+    9                             [665  20]                      [667  9]                           nil
+   10                             [667  9]                     [667  19]                   [667  19]; 
+**Creating dot file t7.dot for Stage 10**
+   11                             [667  19]                      [671  7]                           nil
+   12                             [671  7]                     [671  17]                   [671  17]; 
+   13                             [671  17]                      [687  5]                           nil
+   14                             [687  5]                     [687  15]                   [687  15]; 
+   15                             [687  15]                      [750  3]                           nil
+   16                             [750  3]                     [750  13]                   [750  13]; 
+   17                             [750  13]                    [1000  11]                           nil
+   18                             [1000  11]                     [500  12]                           nil
+   19                             [500  12]                           nil                           nil
+****************************************************************************************************
+****************************************************************************************************
+Demonstrating Case:8
+OutPut Search Node:
+After delete Operation:1
+Searching0th node of the list
+Null
+After delete Operation:2
+Searching1th node of the list
+Null
+After delete Operation:3
+Searching2th node of the list
+[375  125  3]
+After delete Operation:4
+Searching3th node of the list
+Null
+After delete Operation:5
+Searching4th node of the list
+[343  157  5]
+**Creating dot file t8 - a.dot **
+After delete Operation:6
+Searching5th node of the list
+Null
+After delete Operation:7
+Searching6th node of the list
+[500  165  7]
+After delete Operation:8
+Searching7th node of the list
+Null
+After delete Operation:9
+Searching8th node of the list
+[375  167  9]
+After delete Operation:10
+Searching9th node of the list
+Null
+After delete Operation:11
+Searching10th node of the list
+[343  168  11]
+**Creating dot file t8 - b.dot **
+After delete Operation:12
+Searching11th node of the list
+Null
+After delete Operation:13
+Searching12th node of the list
+Null
+After delete Operation:14
+Searching13th node of the list
+Null
+After delete Operation:15
+Searching14th node of the list
+Null
+After delete Operation:16
+Searching15th node of the list
+Null
+After delete Operation:17
+Searching16th node of the list
+Null
+After delete Operation:18
+Searching17th node of the list
+Null
